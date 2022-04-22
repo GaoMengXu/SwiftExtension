@@ -1,0 +1,16 @@
+PODS:
+  - SwitExtension (0.1.0)
+
+DEPENDENCIES:
+  - SwitExtension (from `../`)
+
+EXTERNAL SOURCES:
+  SwitExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwitExtension: fafc443a013c57203fe1b198d9065a33f25504a6
+
+PODFILE CHECKSUM: cc25487ea4068d699b148f70392416f6608b3fb5
+
+COCOAPODS: 1.11.2

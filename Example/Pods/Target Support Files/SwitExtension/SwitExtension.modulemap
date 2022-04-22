@@ -1,0 +1,6 @@
+framework module SwitExtension {
+  umbrella header "SwitExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

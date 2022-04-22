@@ -1,0 +1,22 @@
+{
+  "name": "SwitExtension",
+  "version": "0.1.0",
+  "summary": "A short description of SwitExtension.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gaomengxu/SwitExtension",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gaomengxu": "gaomengxu@yd.com.cn"
+  },
+  "source": {
+    "git": "https://github.com/gaomengxu/SwitExtension.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SwitExtension/Classes/**/*"
+}

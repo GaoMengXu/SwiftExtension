@@ -1,0 +1,6 @@
+framework module Pods_SwitExtension_Tests {
+  umbrella header "Pods-SwitExtension_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
